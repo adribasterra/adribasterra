@@ -27,7 +27,7 @@ I'm Adriana, still a student of a double degree in Computer Science & Videogame 
 
 ![adribasterra's github stats](https://github-readme-stats.vercel.app/api?username=adribasterra&show_icons=true&theme=react&count_private=true)
 
-Publicly worked more on:
+Worked more on:
 
 ![adribasterra's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adribasterra&hide=css,html&theme=react)
 
