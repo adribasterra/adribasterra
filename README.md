@@ -29,7 +29,7 @@ I'm Adriana, still a student of a double degree in Computer Science & Videogame 
 
 Worked more on:
 
-![adribasterra's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adribasterra&hide=css,html&theme=react&count_private=true)
+![adribasterra's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adribasterra&theme=react&count_private=true)
 
 
 ## Languages & Tools
