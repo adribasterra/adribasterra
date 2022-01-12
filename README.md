@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Adriana, still a student of a double degree in Computer Science & Videogame Design and Development. Welcome to my project <del>kind of</del> portfolio😄. Currently:
 
-- 🌱 In 4th year of university
+- 🌱 In 5th year of university
 - 🔭 On my way to become a fullstacker
 - 💻 Used to code in C# and JavaScript
 - ⚡ Always willing to learn new things
