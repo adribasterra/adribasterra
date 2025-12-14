@@ -25,7 +25,7 @@ I'm Adriana, a Computer Engineer & Videogame Developer. Welcome to my project <d
 
 ## GitHub stats
 
-![adribasterra's github stats](https://github-readme-stats.vercel.app/api?username=adribasterra&show_icons=true&theme=react&count_private=true)
+<!-- ![adribasterra's github stats](https://github-readme-stats.vercel.app/api?username=adribasterra&show_icons=true&theme=react&count_private=true) -->
 
 Worked more on:
 
